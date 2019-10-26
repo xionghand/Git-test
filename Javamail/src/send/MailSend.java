@@ -11,7 +11,7 @@ public class MailSend {
     public static String senderAddress = "";
     public static String senderPassword = "";
 
-    //收件人账号密码
+    //收件人账号
     public static String receiveAddress = "";
 
 
